@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T13:29:04.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.0" etag="XXzLO2zbNaqUo9YGirDb" type="github"><diagram id="O5IYRW_OMI5xlMHlh6RX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-23T15:07:36.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="xWGNqj_8vV9LmS3oSiPz" version="14.7.0" type="github">
+  <diagram id="O5IYRW_OMI5xlMHlh6RX" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+      <root>
+        <object label="" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="20" y="221.33999999999997" width="40" height="77.33" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-2" value="" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png;labelBackgroundColor=#DAD2D8;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Carte NFC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-5" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="241.83" as="sourcePoint" />
+            <mxPoint x="270" y="241.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-9" value="Services de la commune" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="690" y="190.33" width="220" height="150" as="geometry">
+            <mxRectangle x="600" y="180" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-10" value="marchand" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yH5T-5SIDCs4Sr409N1y-9">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-11" value="parking" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yH5T-5SIDCs4Sr409N1y-9">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-12" value="bloc sanitaire (Douche, WC public)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yH5T-5SIDCs4Sr409N1y-9">
+          <mxGeometry y="78" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-28" value="etc..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yH5T-5SIDCs4Sr409N1y-9">
+          <mxGeometry y="110" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-15" value="&lt;b&gt;Paiement des services&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-17" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="295" y="200.67" width="50" height="83.33" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-19" value="Terminal de Paiement Electronique (TPE)&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="295" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-21" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="241.82999999999998" as="sourcePoint" />
+            <mxPoint x="435" y="241.82999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-22" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.token_service;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="460" y="207.32999999999998" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-23" value="Token Service Provider&lt;br&gt;(TSP)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-25" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="241.82999999999993" as="sourcePoint" />
+            <mxPoint x="625" y="241.82999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-26" value="Autorisation&lt;br&gt;+&lt;br&gt;Validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yH5T-5SIDCs4Sr409N1y-27" value="" style="endArrow=classic;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yH5T-5SIDCs4Sr409N1y-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="195" as="sourcePoint" />
+            <mxPoint x="670" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
